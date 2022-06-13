@@ -1,0 +1,16 @@
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.exe
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.deps.json
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.runtimeconfig.json
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.runtimeconfig.dev.json
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.dll
+G:\Tech\CSharpPractice\CSharpPractice\bin\Debug\net5.0\CSharpPractice.pdb
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.csproj.AssemblyReference.cache
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.AssemblyInfoInputs.cache
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.AssemblyInfo.cs
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.csproj.CoreCompileInputs.cache
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.dll
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\refint\CSharpPractice.dll
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.pdb
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\CSharpPractice.genruntimeconfig.cache
+G:\Tech\CSharpPractice\CSharpPractice\obj\Debug\net5.0\ref\CSharpPractice.dll
